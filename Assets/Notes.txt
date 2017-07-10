@@ -1,0 +1,6 @@
+Battle:
+Attack (Timed Attacks similar to SMRPG)
+Defense (Block in multiple attack directions with on screen prompt in order to reduce damage taken)
+
+
+Cool Pixel Attack: http://imgur.com/CmWoXI5
